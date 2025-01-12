@@ -2,10 +2,10 @@
 A responsive and dynamic online shopping platform built with Django. This project combines modular HTML templates and Django's robust backend capabilities to deliver a seamless user experience.
 
 Features
-Responsive Design: Easy-to-navigate interface using modular HTML templates (base.html, index.html, services.html).
-Dynamic Contact Form: Captures user data (name, phone, email, and inquiry reason) securely using Django models and ORM. Supports CRUD operations for efficient database interactions.
-Clean URL Routing: Organized urls.py structure for intuitive navigation and maintainable code.
-Full-Stack Integration: Front-end and back-end combined using views.py for smooth functionality and scalability.
+**Responsive Design:** Easy-to-navigate interface using modular HTML templates (base.html, index.html, services.html).
+**Dynamic Contact Form:** Captures user data (name, phone, email, and inquiry reason) securely using Django models and ORM. Supports CRUD operations for efficient database interactions.
+**Clean URL Routing:** Organized urls.py structure for intuitive navigation and maintainable code.
+**Full-Stack Integration:** Front-end and back-end combined using views.py for smooth functionality and scalability.
 
 Tech Stack
 Framework: Django
